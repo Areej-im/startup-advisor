@@ -21,7 +21,7 @@ Pick the option that matches how you use Claude. Options 1 and 2 keep you on the
 2. Open the **Plugins** tab, click **Add**, and choose **Add marketplace**.
 3. Enter:
    ```
-   YOUR-GITHUB-USERNAME/startup-advisor
+   wjihub/startup-advisor
    ```
 4. Find **startup-advisor** in the list and click **Add**.
 5. Open the marketplace and turn on **Sync automatically** so you get every update.
@@ -33,7 +33,7 @@ Pick the option that matches how you use Claude. Options 1 and 2 keep you on the
 Run these two commands inside Claude Code:
 
 ```
-/plugin marketplace add YOUR-GITHUB-USERNAME/startup-advisor
+/plugin marketplace add wjihub/startup-advisor
 /plugin install startup-advisor@startup-advisor-marketplace
 ```
 
