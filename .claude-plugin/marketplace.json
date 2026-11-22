@@ -1,0 +1,14 @@
+{
+  "name": "startup-advisor-marketplace",
+  "description": "Startup advisor for founders, built on a six-stage founder guide",
+  "owner": {
+    "name": "WJIH"
+  },
+  "plugins": [
+    {
+      "name": "startup-advisor",
+      "source": "./plugins/startup-advisor",
+      "description": "Arabic and English startup advisor: idea evaluation, co-founders, MVP, launch, growth and metrics"
+    }
+  ]
+}
